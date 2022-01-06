@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+I'm Hyeonji Kim from South Korea.
+I am a sophomore of KU, majoring in Economics.
+I'm learning cording for myself.
+
+
 <!--
 **heenzi/heenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
